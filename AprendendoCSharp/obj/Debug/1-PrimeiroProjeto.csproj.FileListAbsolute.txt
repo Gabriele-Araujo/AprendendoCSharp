@@ -1,0 +1,6 @@
+C:\Users\gabyc\OneDrive\Documentos\AprendendoCSharp\AprendendoCSharp\bin\Debug\AprendendoCSharp.exe.config
+C:\Users\gabyc\OneDrive\Documentos\AprendendoCSharp\AprendendoCSharp\bin\Debug\AprendendoCSharp.exe
+C:\Users\gabyc\OneDrive\Documentos\AprendendoCSharp\AprendendoCSharp\bin\Debug\AprendendoCSharp.pdb
+C:\Users\gabyc\OneDrive\Documentos\AprendendoCSharp\AprendendoCSharp\obj\Debug\1-PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\gabyc\OneDrive\Documentos\AprendendoCSharp\AprendendoCSharp\obj\Debug\AprendendoCSharp.exe
+C:\Users\gabyc\OneDrive\Documentos\AprendendoCSharp\AprendendoCSharp\obj\Debug\AprendendoCSharp.pdb
